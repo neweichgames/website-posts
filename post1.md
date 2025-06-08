@@ -14,7 +14,7 @@ Here is a quick list of things I have been working on:
 
 It is clear that it has been a while since my last published game. I am sorry for the long break in content. During that time, I have started working on two new video games, but ended up scrapping them both times due to a variety of reasons. I still want to keep creating content, so I decided to switch gears for now and focus on updating my previous games.
 
-![](/images/games/GSIcon.png)
+![](https://www.neweichgames.com/images/games/gs/brand/icon.png)
 ### Getaway Shootout
 
 By far the most requested game to be updated is Getaway Shootout. There seems to be a lot of passionate players for Getaway Shootout (there is even a [subreddit](https://www.reddit.com/r/GetawayShootout/) created), so I decided to focus on updating Getaway Shootout. Here is my current list for updating Getaway Shootout:
@@ -29,7 +29,7 @@ By far the most requested game to be updated is Getaway Shootout. There seems to
 
 Yes Getaway Shootout is finally on the Google Play store. The process took a little bit of time because I merged my mobile and web project versions into one Unity project. This will make creating updates for Getaway Shootout easier because now I will only have to make changes in one Unity project.
 
-[![](/images/platforms/playstore.png)](https://play.google.com/store/apps/details?id=com.NewEichGames.GetawayShootout)
+[![](https://www.neweichgames.com/images/platforms/playstore.png)](https://play.google.com/store/apps/details?id=com.NewEichGames.GetawayShootout)
 
 #### Bug fixes
 I found a [Getaway Shootout Handbook](https://www.reddit.com/r/GetawayShootout/comments/v4hgaa/i_have_been_working_on_a_getaway_shootout_handbook/) shared on the Getaway Shootout subreddit by real_dima14. The handbook is really impressive list of facts and glitches. My plan is to go through the glitches and try fixing the glitches that negatively impact the game. 
