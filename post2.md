@@ -3,7 +3,6 @@ title: Getaway Shootout - Update v1.2.1
 quick-desc: Major update for Getaway Shootout.
 date: 2024-07-02
 ---
-
 Getaway Shootout update features a new map, characters, and minor bug fixes.
 ![Launch pad map](../pics/1db4a68f15c6479b.png)
 

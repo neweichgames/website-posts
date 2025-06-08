@@ -3,7 +3,6 @@ title: Status update 1
 quick-desc: First status update!
 date: 2023-01-30
 ---
-
 New Eich Games now has a redesigned site! In the news section of this website, I plan on posting status updates of what I have been working on.
 
 Here is a quick list of things I have been working on:
