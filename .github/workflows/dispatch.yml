@@ -1,0 +1,16 @@
+name: Dispatch Website Build
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Repository Dispatch
+        uses: peter-evans/repository-dispatch@v3
+        with:
+          token: ${{ secrets.WEB_PAT }}
+          repository: neweichgames/neweichgames.github.io
+          event-type: posts_push
