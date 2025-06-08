@@ -5,7 +5,7 @@ date: 2024-07-02
 ---
 
 Getaway Shootout update features a new map, characters, and minor bug fixes.
-![Launch pad map](/posts/pics/1db4a68f15c6479b.PNG)
+![Launch pad map](../pics/1db4a68f15c6479b.png)
 
 ## Change log
 #### Content

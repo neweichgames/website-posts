@@ -37,7 +37,7 @@ I found a [Getaway Shootout Handbook](https://www.reddit.com/r/GetawayShootout/c
 
 A gameplay fix not on the list I have made deals with picking up power ups/weapons. The fix makes it so you can pick up a power up after using a power up without having to leave and comeback to the power up. Here is a before and after of the fix:
 
-![Before](/posts/pics/d9020baabe6060fa.gif) ![After](/posts/pics/d5bf680c19bc3747.gif)
+![Before](../pics/d9020baabe6060fa.gif) ![After](../pics/d5bf680c19bc3747.gif)
 
 This gameplay fix is currently only live in the android version of the game.
 
