@@ -13,4 +13,4 @@ jobs:
         with:
           token: ${{ secrets.WEB_PAT }}
           repository: neweichgames/neweichgames.github.io
-          event-type: "Posts Update"
+          event-type: posts_push
